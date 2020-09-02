@@ -1,1 +1,917 @@
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCvyA09yw2Nh4KMoI9WnUWIV2iGdEaemLjIVZTBwtPtNnplFL0LuPFRasLayftA/Ev6jResiyPFY8hM/lMtXpPWrSpb02EFJS9TOO+QEqbXYwy0vDGwqgNRJGs61Q3dKIB6xGfxIk4OXgarnuF5cSJgL0hinHQMT6exYq79XxEDBxjhARFlSQldum+v7MhitLy3wrB7UJGJMncJ4ilaVmk9DrqiG9bK1sa/1GL70vk8bGGSw3CDpionWryv5RQFjZhR/iyor+i/XAxUhgmFVo9CLEqBBCKRNs4kfbvK0FIxR4hpHAhjqELhAwmv2nKPswhtI5Izz+uIkdZ+pZqmHTqPhjY/IGC3DQxBjJAg9ArPSWKW4bRvBrlA4g/AlRner0q+utLWC9OLx4Nc+FNW/b+iD3JIeC2+rLNcZrzrfVwUt7tm3+9rozp4irifCjW1Vn8dcALQiSACzeI1gkclKFQ3GYMZmYZYgGMsxChPLQaMqBTSUtevXO1I2L74yjF0/tAJW5gsZ/OyGVwShj/nxdSjmgbfCnFSf+u8tIRT2piN3QfKzHVYvVfE2r0/POeXOSp41rTVluisEzPA36kzcOlrYXnU36XAoBfK7Udn6vHyAPnLObt7mNpjUDmF8WLJvnJ+Ds+8oIgFwlyGUonhMYUGf4OirSaHf+3Jrmto2Da8qw== sgit
+
+<!DOCTYPE html>
+<html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8" />
+<!-- Google Tag Manager (asahi.com) -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K38TZKV');</script>
+<!-- End Google Tag Manager (asahi.com) -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N328R8');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>菅氏、総裁選立候補を正式表明 「持てる力全て尽くす」 [安倍首相辞任へ][自民党総裁選2020]：朝日新聞デジタル</title>
+<meta name="description" content="　菅義偉官房長官（71）は2日夕、国会内で記者会見を開き、自民党総裁選への立候補を正式に表明した。岸田文雄政調会長（63）と石破茂元幹事長（63）が1日に表明しており、総裁選の構図が固まった。　菅氏は…" />
+<meta name="keywords" content="朝日新聞デジタル,政治,国政,朝日新聞,ニュース,新聞" />
+<meta name="TITLE" CONTENT="菅氏、総裁選立候補を正式表明 「持てる力全て尽くす」" />
+<meta name="SHORTTITLE" CONTENT="菅氏、総裁選立候補正式表明" />
+<meta name="pubdate" content="2020-09-02T17:40:29+09:00" />
+<link rel="canonical" href="https://www.asahi.com/articles/ASN925T1YN92UTFK014.html">
+<link rel="alternate" media="handheld" href="http://micro.asahi.com/ASN925T1YN92UTFK014.php">
+<link rel="amphtml" href="https://www.asahi.com/amp/articles/ASN925T1YN92UTFK014.html">
+<!--social-->
+<meta property="fb:app_id" content="137119773101625" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:title" content="菅氏、総裁選立候補を正式表明 「持てる力全て尽くす」：朝日新聞デジタル" />
+<meta property="og:url" content="https://www.asahi.com/articles/ASN925T1YN92UTFK014.html">
+<!--引用可能写真＝2-->
+<meta property="og:image" content="https://www.asahicom.jp/articles/images/c_AS20200902001717_comm.jpg" />
+<meta property="og:image:height" content="314" />
+<meta property="og:image:width" content="600" />
+<meta property="og:site_name" content="朝日新聞デジタル" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="　菅義偉官房長官（71）は2日夕、国会内で記者会見を開き、自民党総裁選への立候補を正式に表明した。岸田文雄政調会長（63）と石破茂元幹事長（63）が1日に表明しており、総裁選の構図が固まった。　菅氏は…" />
+<meta property="article:author" content="https://www.facebook.com/asahicom/" />
+<meta property="article:publisher" content="https://www.facebook.com/asahicom/" />
+<!-- twitter:引用可能写真＝2-->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@asahi" />
+<meta name="twitter:title" content="菅氏、総裁選立候補を正式表明 「持てる力全て尽くす」：朝日新聞デジタル" />
+<meta name="twitter:description" content="　菅義偉官房長官（71）は2日夕、国会内で記者会見を開き、自民党総裁選への立候補を正式に表明した。岸田文雄政調会長（63）と石破茂元幹事長（63）が1日に表明しており、総裁選の構図が固まった。　菅氏は…" />
+<meta name="twitter:image" content="https://www.asahicom.jp/articles/images/c_AS20200902001717_comm.jpg" />
+<meta name="twitter:url" content="https://www.asahi.com/articles/ASN925T1YN92UTFK014.html">
+<link rel="stylesheet" href="https://www.asahicom.jp/sp/css/asadigi2020smp-article.min.css" />
+<script src="https://www.asahicom.jp/sp/js/jquery-1.9.0.min.js"></script>
+<script>var asa12_sessck=asa12_getCookie("WWW_SESS");var asa12_sc_pdc=asa12_getCookie("sc_pdc");var asa12_modemei="";var asa12_mode=0;var asa14_mode=0;var asa14_coupon=0;var asa16_mode=0;var asa16_premium_service=false;var asa16_course=false;var reg_asa16_course=new RegExp(/.*(?=_{10}).*$/);if(asa12_sc_pdc){asa16_premium_service=asa12_sc_pdc.match(/^S999C001P002C1|^S999C001P002C2|^S999C010P002C1|^S999C601P002C2/)}if(asa12_sessck){asa12_modemei=asa12_sessck.substring(0,6);asa16_course=asa12_sessck.match(reg_asa16_course)?asa12_sessck.substring(14,15):false;switch(asa12_modemei){case"OTHECA":if(asa16_premium_service){asa12_member_css("//www.asahicom.jp/css/asahi-member_premium2016.utf8.css");asa12_mode=2;asa14_mode=2;asa14_coupon=0;asa16_mode=28}else{if(asa16_course==="S"){asa12_member_css("//www.asahicom.jp/css/asahi-member_simple2016.utf8.css");asa12_mode=2;asa14_mode=2;asa14_coupon=0;asa16_mode=22}else{asa12_member_css("//www.asahicom.jp/css/asahi-member2014.utf8.css");asa12_mode=2;asa14_mode=2;asa14_coupon=0;asa16_mode=25}}break;case"OTHECT":asa12_member_css("//www.asahicom.jp/css/asahi-coupon2014.utf8.css");asa12_mode=2;asa14_mode=2;asa14_coupon=1;asa16_mode=25;break;case"LITECA":asa12_member_css("//www.asahicom.jp/css/asahi-lite2014.utf8.css");asa12_mode=1;asa14_mode=1;asa14_coupon=0;asa16_mode=1;break;case"OOUTCA":asa12_member_css("//www.asahicom.jp/css/asahi-oout2014.utf8.css");asa12_mode=0;asa14_mode=-2;asa14_coupon=0;asa16_mode=-2;break;case"LOUTCA":asa12_member_css("//www.asahicom.jp/css/asahi-lout2014.utf8.css");asa12_mode=0;asa14_mode=-1;asa14_coupon=0;asa16_mode=-1;break;default:asa12_member_css("//www.asahicom.jp/css/asahi-nonregi2014.utf8.css");asa12_mode=0;asa14_mode=0;asa14_coupon=0;asa16_mode=0;break}}else{asa12_member_css("//www.asahicom.jp/css/asahi-nonregi2014.utf8.css");asa12_mode=0;asa14_mode=0;asa14_coupon=0;asa16_mode=0}function asa12_getCookie(c){c+="=";var b=document.cookie+";";var d=b.indexOf(c);if(d!=-1){var a=b.indexOf(";",d);return unescape(b.substring(d+c.length,a))}return false}function asa12_member_css(b){var a=document.createElement("link");a.rel="stylesheet";a.type="text/css";a.media="screen,print";a.href=b;document.getElementsByTagName("head").item(0).appendChild(a);return false};</script>
+<script src="https://www.asahicom.jp/sp/js/entry_points/gpt_config.js"></script>
+<script defer src="https://www.asahicom.jp/sp/js/entry_points/sp_article.js"></script>
+<script defer src="https://www.asahicom.jp/js/asahi-topicslink2015.utf8.js"></script>
+<link rel="alternate stylesheet" href="https://www.asahicom.jp/sp/css/fontsize/xsmall2015.css" title="xsmall" />
+<link rel="alternate stylesheet" href="https://www.asahicom.jp/sp/css/fontsize/small2015.css" title="small" />
+<link rel="alternate stylesheet" href="https://www.asahicom.jp/sp/css/fontsize/medium2015.css" title="medium" />
+<link rel="alternate stylesheet" href="https://www.asahicom.jp/sp/css/fontsize/large2015.css" title="large" />
+<link rel="alternate stylesheet" href="https://www.asahicom.jp/sp/css/fontsize/xlarge2015.css" title="xlarge" />
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"headline": "菅氏、総裁選立候補を正式表明 「持てる力全て尽くす」",
+"mainEntityOfPage": "https://www.asahi.com/articles/ASN925T1YN92UTFK014.html",
+"url": "https://www.asahi.com/sp/articles/ASN925T1YN92UTFK014.html",
+"thumbnailUrl":"https://www.asahicom.jp/articles/images/AS20200902001717_commL.jpg",
+"image":[
+{"@type": "ImageObject","url": "https://www.asahicom.jp/articles/images/AS20200902001717_comm.jpg","width": 415,"height": 640,"description":"&#33258;&#27665;&#20826;&#32207;&#35009;&#36984;&#12398;&#31435;&#20505;&#35036;&#20250;&#35211;&#12395;&#33256;&#12416;&#33733;&#32681;&#20553;&#23448;&#25151;&#38263;&#23448;=2020&#24180;9&#26376;2&#26085;&#21320;&#24460;5&#26178;1&#20998;&#12289;&#22269;&#20250;&#20869;&#12289;&#24693;&#21407;&#24344;&#22826;&#37070;&#25774;&#24433;"},{"@type": "ImageObject","url": "https://www.asahicom.jp/articles/images/AS20200902001718_comm.jpg","width": 640,"height": 434,"description":"&#33258;&#27665;&#20826;&#32207;&#35009;&#36984;&#12395;&#31435;&#20505;&#35036;&#34920;&#26126;&#12377;&#12427;&#33733;&#32681;&#20553;&#23448;&#25151;&#38263;&#23448;=2020&#24180;9&#26376;2&#26085;&#21320;&#24460;&#12289;&#26481;&#20140;&#37117;&#21315;&#20195;&#30000;&#21306;&#12289;&#21152;&#34276;&#35538;&#25774;&#24433;"}],
+"description":"&#12288;&#33733;&#32681;&#20553;&#23448;&#25151;&#38263;&#23448;&#65288;71&#65289;&#12399;2&#26085;&#22805;&#12289;&#22269;&#20250;&#20869;&#12391;&#35352;&#32773;&#20250;&#35211;&#12434;&#38283;&#12365;&#12289;&#33258;&#27665;&#20826;&#32207;&#35009;&#36984;&#12408;&#12398;&#31435;&#20505;&#35036;&#12434;&#27491;&#24335;&#12395;&#34920;&#26126;&#12375;&#12383;&#12290;&#23736;&#30000;&#25991;&#38596;&#25919;&#35519;&#20250;&#38263;&#65288;63&#65289;&#12392;&#30707;&#30772;&#33538;&#20803;&#24185;&#20107;&#38263;&#65288;63&#65289;&#12364;1&#26085;&#12395;&#34920;&#26126;&#12375;&#12390;&#12362;&#12426;&#12289;&#32207;&#35009;&#36984;&#12398;&#27083;&#22259;&#12364;&#22266;&#12414;&#12387;&#12383;&#12290;&#12288;&#33733;&#27663;&#12399;…",
+"articleSection": ["Politics"],
+"author": {"@type": "Organization","name": "朝日新聞デジタル"},
+"publisher":
+{
+"@type":"Organization",
+"name":"朝日新聞デジタル",
+"url":"https://www.asahi.com",
+"logo":
+{
+"@type":"ImageObject",
+"url": "https://www.asahicom.jp/images/logo@2x.png",
+"width": 600,
+"height": 60
+}
+},
+"keywords":["菅氏","総裁選立候補","正式表明","持てる力全て尽くす","政治","国政"],
+"inLanguage":"ja_JP",
+"dateCreated": "2020-09-02T17:40:29+09:00",
+"datePublished": "2020-09-02T17:40:29+09:00",
+"dateModified": "2020-09-02T18:11:16+09:00"
+}
+</script>
+
+<!--outbrain BGN-->
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+<!--outbrain END-->
+<!--DFP BGN-->
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<!--DFP END-->
+
+<script><!--
+var sc_asa_digi_prop66="100:440:440";
+// --></script>	 
+<script><!--
+var sc_asa_digi_prop40="ASN925T1YN92UTFK014";
+var sc_asa_digi_list2="A03010000:B01020000:B05000000:X003:L00E";
+var sc_asa_digi_prop51="EJEEBBSITB";
+var sc_asa_digi_prop52="BEIGEBEABBBBA";
+var sc_asa_digi_prop53="＊安倍首相辞任,朝デジまとめ,＊自民党総裁選２０２０";
+var sc_asa_digi_prop69="5msO-_39k7U";
+var sc_asa_digi_prop70="【ノーカット動画】自民党総裁選に立候補、菅官房長官が会見";
+// --></script>	 
+<script>
+var sc_asa_digi_ref_site ="";
+</script>
+<script type="text/javascript">
+var ad_kijinaka="Y";
+var ad_kijinaka_count = 1;
+</script>
+<script src="//www.asahicom.jp/ad/js/sp/article.js?35abc2b7b3baf5a4a1717b6b9f54d5e7"></script>
+<script>var js_hashtag="安倍首相辞任へ,自民党総裁選2020"</script>
+<style>body#Article div.ArticleTitle div.PageTitle{display:none;}</style>
+<script>
+var _cb_asa_title   = "菅氏、総裁選立候補を正式表明 「持てる力全て尽くす」";
+var _cb_asa_section = "政治,記事";
+var _cb_src = '//static.chartbeat.com/js/chartbeat_video.js';
+</script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<meta name="RELEASE_DATE" content="2020-09-02" />
+
+</head>
+<body id="Article" class="">
+<!-- Google Tag Manager (asahi.com) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K38TZKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (asahi.com) -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N328R8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- googleoff:index -->
+<div><div id="wrapper">
+<!-- HeaderNew -->
+<div id="HeaderNew">
+<div id="HeaderNav" class="SignupBtn_on">
+<h1 id="MainLogo"><a href="https://www.asahi.com/">朝日新聞デジタル</a></h1>
+<div class="HeaderFunctionArea">
+<p id="HeaderClose"><span class="IconArea">閉じる</span></p>
+<a class="HeaderSignup Logout NoAppIos" id="UserSignup" href="http://digital.asahi.com/info_smp/price/?iref=sp_headreg_nm"><span class="IconArea">お申し込み</span></a>
+<a class="HeaderSignup Lite	NoAppIos" id="UserSignupMember" href="http://digital.asahi.com/info_smp/price/?iref=sp_headreg_fm"><span class="IconArea">お申し込み</span></a>
+<p id="HeaderLogin" class="Logout">
+<a href="https://digital.asahi.com/login_smp/?iref=sp_gnavi&jumpUrl=http%3A%2F%2Fwww.asahi.com%2Fsp%2F">
+<span class="IconArea">ログイン</span>
+</a>
+</p>
+<p class="HeaderUser Lite" id="UserGuest">
+<span class="IconArea">マイページ</span>
+</p>
+<p class="HeaderUser Member" id="UserMember">
+<span class="IconArea">マイページ</span>
+</p>
+<p id="HeaderMenu">
+<span class="IconArea">メニュー</span>
+</p>
+</div>
+</div>
+<ul id="HeaderGroup">
+<li class="NavItem"><a href="https://www.asahi.com/?iref=sp_gnavi"><span>トップ</span></a></li>
+<li class="NavItem"><a href="https://www.asahi.com/topics/word/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9.html?iref=sp_gnavi"><span>新型コロナ</span></a></li>
+<li class="NavItem"><a href="https://www.asahi.com/news/?iref=sp_gnavi"><span>速報</span></a></li>
+<li class="NavItem"><a href="http://www.asahi.com/shimen/?iref=sp_gnavi"><span>朝刊</span></a></li>
+<li class="NavItem"><a href="http://www.asahi.com/shimen/index_ev.html?iref=sp_gnavi"><span>夕刊</span></a></li>
+<li class="NavItem"><a href="https://www.asahi.com/rensai/?iref=sp_gnavi"><span>連載</span></a></li>
+<li class="NavItem"><a href="https://www.asahi.com/special/news/?iref=sp_gnavi"><span>特集</span></a></li>
+<li class="NavItem"><a href="http://www.asahi.com/whatsnew/ranking/?iref=sp_gnavi"><span>ランキング</span></a></li>
+</ul>
+</div>
+<!--//HeaderNew-->
+<!-- HeadermenuArea -->
+<div id="HeadermenuArea" class="HeadermenuAreaNew">
+<div class="MobileMenu">
+<div class="searchArea">
+<form class="SearchBox" method="get" action="https://sitesearch.asahi.com/.cgi/sp/sitesearch/sitesearch.pl">
+<fieldset class="SearchInput">
+<input type="search" class="SearchKeywords" value="" name="Keywords" placeholder="記事を検索" required="">
+<input type="submit" class="SearchSubmit" value="検索">
+<input type="hidden" value="sp_gmenu_search" name="iref">
+</fieldset>
+</form>
+</div>
+<div class="MenuArea">
+<ul>
+<li><a href="https://www.asahi.com/?iref=sp_gnavi_menu"><span>トップ</span></a></li>
+<li><a href="https://www.asahi.com/news/?iref=sp_gnavi_menu"><span>速報</span></a></li>
+<li><a href="http://www.asahi.com/shimen/?iref=sp_gnavi_menu"><span>朝刊</span></a></li>
+<li><a href="http://www.asahi.com/shimen/index_ev.html?iref=sp_gnavi_menu"><span>夕刊</span></a></li>
+<li><a href="https://www.asahi.com/rensai/?iref=sp_gnavi_menu"><span>連載</span></a></li>
+<li><a href="https://www.asahi.com/special/news/?iref=sp_gnavi_menu"><span>特集</span></a></li>
+<li><a href="http://www.asahi.com/whatsnew/ranking/?iref=sp_gnavi_menu"><span>ランキング</span></a></li>
+<li><a href="https://www.asahi.com/topics/?iref=sp_gnavi_menu"><span>トピックス</span></a></li>
+</ul>
+<a href="javascript:void(0)" class="More">すべて見る</a>
+<ul style="display:none;">
+<li><a href="https://www.asahi.com/multimedia/?iref=sp_gnavi_menu"><span>動画・音声・写真</span></a></li>
+<li><a href="https://www.asahi.com/news/gold.html?iref=sp_gnavi_menu"><span>有料会員記事一覧</span></a></li>
+<li><a href="https://www.asahi.com/weather/?iref=sp_gnavi_menu"><span>天気</span></a></li>
+<li><a href="https://www.asahi.com/uranai/12seiza/?iref=sp_gnavi_menu"><span>12星座占い</span></a></li>
+<li><a href="https://www.asahi.com/traffic/?iref=sp_gnavi_menu"><span>交通情報</span></a></li>
+<li><a href="http://www.asahi.com/sitemap/?iref=sp_gnavi_menu"><span>サイトマップ</span></a></li>
+</ul>
+<h2>ジャンル</h2>
+<ul>
+<li><a href="https://www.asahi.com/national/?iref=sp_gnavi_menu"><span>社会</span></a></li>
+<li><a href="http://www.asahi.com/business/?iref=sp_gnavi_menu"><span>経済</span></a></li>
+<li><a href="https://www.asahi.com/politics/?iref=sp_gnavi_menu"><span>政治</span></a></li>
+<li><a href="http://www.asahi.com/international/?iref=sp_gnavi_menu"><span>国際</span></a></li>
+<li><a href="http://www.asahi.com/sports/?iref=sp_gnavi_menu"><span>スポーツ</span></a></li>
+<li><a href="https://www.asahi.com/opinion/?iref=sp_gnavi_menu"><span>オピニオン</span></a></li>
+<li><a href="http://www.asahi.com/tech_science/?iref=sp_gnavi_menu"><span>IT・科学</span></a></li>
+<li><a href="https://www.asahi.com/culture/?iref=sp_gnavi_menu"><span>文化・芸能</span></a></li>
+<li><a href="http://www.asahi.com/life/?iref=sp_gnavi_menu"><span>ライフ</span></a></li>
+<li><a href="http://www.asahi.com/edu/?iref=sp_gnavi_menu"><span>教育・子育て</span></a></li>
+<li><a href="http://www.asahi.com/apital/?iref=sp_gnavi_menu"><span>医療・健康</span></a></li>
+<li><a href="http://www.asahi.com/area/?iref=sp_gnavi_menu"><span>地域</span></a></li>
+</ul>
+<h2>ヘルプ</h2>
+<ul>
+<li><a href="https://faq.digital.asahi.com/?iref=sp_gnavi_menu"><span>Q&A（よくある質問）</span></a></li>
+<li class="NoAppIos"><a href="https://digital.asahi.com/info/?iref=sp_gnavi_menu"><span>総合ガイド</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- //HeadermenuArea -->
+<div id="HeaderloginArea" class="HeaderloginArea">
+<nav id="HeaderLoginNav">
+<p class="LoginNavTitle">マイページ</p>
+<p class="LoginStatus Member">有料会員</p>
+<p class="LoginStatus Lite">無料会員</p>
+<ul class="LonginNav first">
+<li><a href="https://digital.asahi.com/my_menu_smp/?iref=sp_gnavi_mypage"><span>お客様サポート（個人設定）</span></a></li>
+<li class="Sub">
+<ul>
+<li><a href="https://digital.asahi.com/support/mail_service/index.html?iref=sp_gnavi_mypage"><span>メール設定</span></a></li>
+<li><a href="https://www.asahi.com/customize.html?iref=sp_gnavi_mypage"><span>天気・占い・交通情報</span></a></li>
+</ul>
+</li>
+</ul>
+<ul class="LonginNav">
+<li><a href="https://digital.asahi.com/member_mykeyword/?iref=sp_gnavi_mypage"><span>MYキーワード</span></a></li>
+<li><a href="https://digital.asahi.com/member_scrapbook/?iref=sp_gnavi_mypage"><span>スクラップブック</span></a></li>
+</ul>
+<ul class="LonginNav">
+<li><a href="https://digital.asahi.com/my_menu/premium/?iref=sp_gnavi_mypage"><span>提携プレミアムサービス</span></a></li>
+<li><a href="https://que.digital.asahi.com/question/?iref=sp_gnavi_mypage"><span>会員特典・プレゼント</span></a></li>
+</ul>
+<div class="LogoutArea"><a href="https://digital.asahi.com/logout/?iref=sp_gnavi&jumpUrl=http%3A%2F%2Fwww.asahi.com%2F">ログアウト</a></div>
+</nav>
+</div><!--//HeaderloginArea-->
+<!--telop|BGN--><!-- テロップはありません $!{telop_text} --><!--telop|END-->
+
+<!-- 津波・地震速報 BGN -->
+<script>
+var ASAHI_TSUNAMI = new XMLHttpRequest();
+ASAHI_TSUNAMI.open('GET', '/wave/tsunami/alert/emergency_box.html', true);
+ASAHI_TSUNAMI.onload = function() {
+  if ((ASAHI_TSUNAMI.status >= 200 && ASAHI_TSUNAMI.status < 400) && ASAHI_TSUNAMI.responseText.match(/tsunami\.html/)) {
+    EventTsunami();
+  }
+}
+function EventTsunami(){
+  var txt_tsunami = document.getElementById("tsunami_read_text");
+  txt_tsunami.innerHTML = ASAHI_TSUNAMI.responseText;
+  Function(document.getElementById("TsunamiScript").innerHTML)();
+  var ele = document.querySelector("#InsideTsunami .SlideBtn");
+  var btn = ele.querySelector("span b");
+  var sld = document.querySelector("#InsideTsunami .TsunamiSlide");
+  ele.addEventListener("click",function(){
+  if(sld.style.display=="none"){
+    btn.classList.remove("Click");
+    btn.innerHTML = "閉じる";
+    sld.style.display = "block";
+    }else{
+    btn.classList.add("Click");
+    btn.innerHTML = "詳しく";
+    sld.style.display = "none";
+    }
+  });
+}
+ASAHI_TSUNAMI.send();
+</script>
+<div id="tsunami_read_text"></div><script>
+var ASAHI_QUAKE = new XMLHttpRequest();
+ASAHI_QUAKE.open('GET', '/earthquake/news/esi/max_emergency_box1_utf8.htm', true);
+ASAHI_QUAKE.onload = function() {
+ if ((ASAHI_QUAKE.status >= 200 && ASAHI_QUAKE.status < 400)  && ASAHI_QUAKE.responseText.match(/max_earthquakealert\.html/)) {
+  var txt_quake = document.getElementById("earthquake_read_text");
+  txt_quake.innerHTML = ASAHI_QUAKE.responseText;
+ }
+}
+ASAHI_QUAKE.send();
+</script>
+<div id="earthquake_read_text"></div>
+
+<!-- 津波・地震速報 END -->
+<!-- トップバナー広告 -->
+<!-- 広告（ウェブプッシュ） -->
+<!-- WebPush Ad BGN -->
+<div class="ad">
+
+<!-- dfptag スマホ最適化ページ ウエブプッシュ ★ここから -->
+
+<!-- /57465213/www.asahi.com/sp/webpush -->
+<div id='div-gpt-ad-1518060850192-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518060850192-0'); });
+</script>
+</div>
+
+<!-- dfptag スマホ最適化ページ ウェブプッシュ ★ここまで -->
+
+</div>
+<!-- WebPush Ad END -->
+
+
+<!-- 広告（バナー） -->
+<!-- Banner Ad BGN -->
+<div class="ad ad-1stbnr" style="min-height: 50px;">
+
+<!-- dfptag スマホ最適化ページ article_バナー ★ここから -->
+
+<!-- /57465213/www.asahi.com/sp/article/1st_bnr -->
+<div id='div-gpt-ad-1492771520777-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492771520777-0'); });
+</script>
+</div>
+
+<!-- dfptag スマホ最適化ページ article_バナー ★ここまで -->
+
+</div>
+<!-- Banner Ad END -->
+
+<!-- トップバナー広告 -->
+<!-- Contents BGN--><div id="Contents">
+<div id="ArticleBody">
+<div class="VideoMod"><div class="VideoExResp"><div class="VideoExRespInner"><iframe id="ytplayer1" class="youtube" width="640" height="360" src="https://www.youtube.com/embed/5msO-_39k7U?autoplay=1&mute=1&rel=0&playsinline=1&modestbranding=1" frameborder="1" allowfullscreen></iframe></div></div><span class="Caption">【ノーカット動画】自民党総裁選に立候補、菅官房長官が会見</span></div>
+<div class="ArticleTitle">
+<div class="featureName">
+<a href="https://www.asahi.com/topics/word/%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E6%94%BF%E6%A8%A9%E3%81%AE7%E5%B9%B4.html?iref=sp_matome"><span>テーマ特集</span>安倍首相辞任へ</a>
+<a href="https://www.asahi.com/topics/word/%E8%87%AA%E6%B0%91%E5%85%9A%E7%B7%8F%E8%A3%81%E9%81%B8.html?iref=sp_matome"><span>テーマ特集</span>自民党総裁選2020</a>
+</div>
+<style type="text/css">#matomenews_area{border-top: 1px solid #eeeee7;padding-top: 10px;}#KijiueBnr:empty{display:none;}#wrapper #KijiueBnr{margin: 0 10px 15px;}#KijiueBnr a:hover{opacity: 0.75;}#wrapper #KijiueBnr img{width:300px;}#newsmatome_listimg a{display:block;width:100%;height:0;position:relative;padding-bottom:75%;margin-bottom:10px;}#insert_img p{margin:0!important;padding:0!important}#insert_img p a{display: block;margin-bottom: 10px;}#insert_links ul{float:left;width: calc( 100% - 180px );}#insert_links{margin: 0 0 15px;}#insert_links ul li{padding-left: 11px;float: left;position:relative;clear: left;}#insert_links ul li:before{content:'';background-color: #b9b9b2;width: 3px;height: 3px;position:absolute;top: 12px;left: 0;}#title_bnr{display:block}#Main #newsmatome_listimg{width:160px;float:left;padding-right:20px;}#Main #insert_links ul li{line-height:1.8;}#wrapper #insert_links ul{width: calc( 100% - 100px );float:right;}#wrapper #matomenews_area{border-top: 1px solid #eeeee7;margin:10px;border-bottom: 1px solid #eeeee7;padding-bottom:15px;}
+#wrapper #insert_links{margin:0 auto 10px;}#wrapper #newsmatome_listimg{width:80px;float:left;padding-right:20px;}#wrapper #insert_links ul li{font-size:.8rem;line-height: 1.5;margin-bottom: 5px;}#wrapper #insert_links ul li:before{top:8px}.displayContents #matomenews_area{display:none;}
+</style><div class="PageTitle" id="KijiueBnr"></div><script>
+function setData2020Info(str){var table_area = document.createElement('div');var myParent = document.getElementById("matomenews_area");
+myParent.insertBefore(table_area, myParent.firstElementChild);table_area.setAttribute('id','data2020_table');table_area.innerHTML =str + '<style>#covid19-sodan{display:none;}</style>';return '';
+};
+(function(){var newsmatomes = {};newsmatomes={'＊マンション特集１':{'title':'マンションを”敵”から守る　「資産価値」以前の大問題','url':'https://www.asahi.com/special/matome/mansion01/','imgm':'https://www.asahi.com/special/matome/mansion0130_660_370.png','imgb':'https://www.asahi.com/special/matome/mansion0130_660_100.png','sho':'後悔しないために、心がけておくことは。'
+},'＊自動運転特集１':{'title':'クルマは自動で目的地へ','url':'https://www.asahi.com/special/matome/jidounten01/','imgm':'https://www.asahicom.jp/special/matome/jidounten01/images/auto2_660x370.png','imgb':'https://www.asahicom.jp/special/matome/jidounten01/images/auto2_660x100.png','sho':'自動運転にはレベル０から５まであります。'
+},'＊人生再起動のヒント':{'title':'人生再起動のヒント','url':'https://www.asahi.com/special/matome/restart01/','imgm':'https://www.asahi.com/special/matome/images/restart_660_370.png','imgb':'https://www.asahi.com/special/matome/images/restart_660_100.png','sho':'失敗、災害、不測の事態。何があるかわからないのが人生。'
+},'＊ボヘミアン・ラプソディ':{'title':'ボヘミアン・ラプソディを語り尽くす','url':'https://www.asahi.com/special/matome/bohemianrhapsody/','imgm':'https://www.asahi.com/special/matome/images/br_660_370.png','imgb':'https://www.asahi.com/special/matome/images/br_660_100.png','sho':'魅力を語り尽くした記事で、感動と興奮を思い出してみませんか？'
+},'＊サイバー攻防':{'title':'仁義なきサイバー攻防　ハッカーの標的は国家か個人か','url':'https://www.asahi.com/special/matome/cyber01/','imgm':'https://www.asahicom.jp/special/matome/images/cyber_640_370.png','imgb':'https://www.asahicom.jp/special/matome/images/cyber_660_100.png','sho':'身近に迫るサイバー犯罪の脅威。標的は国家か企業か、あなたか。'
+},'＊サブスクリプション':{'title':'サブスクリプション　消費者と企業の新しい関係','url':'https://www.asahi.com/special/matome/subscription01/','imgm':'https://www.asahicom.jp/special/matome/images/Subscription_660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/Subscription_banner.png','sho':'「定額制」は音楽・動画だけ？いえ、車やラーメンにまで拡大中。'
+},'＊宝塚のスター退団':{'title':'ありがとう　宝塚のスターたち','url':'https://www.asahi.com/special/matome/takarazuka01/','imgm':'https://www.asahi.com/special/matome/images/takarazuka660_370.jpg','imgb':'https://www.asahi.com/special/matome/images/takarazuka660_100.jpg','sho':'宝塚では退団する時に鐘がなる――。思わずグッとくる記事のまとめ。'
+},'＊副業時代':{'title':'副業時代、やらなきゃ損？　人生１００年時代の働き方','url':'https://www.asahi.com//special/matome/fukugyojidai/index.html','imgm':'https://www.asahicom.jp/special/matome/images/fukugyo_660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/fukugyo_660x100.png','sho':'副業希望者は１割を超えました。リスクは？　メリットは？'
+},'＊生活習慣病':{'title':'生活習慣病は「自己責任」？','url':'https://www.asahi.com/special/matome/Lifestyle/','imgm':'https://www.asahicom.jp/special/matome/images/Lifestyle_600_370.png','imgb':'https://www.asahicom.jp/special/matome/images/Lifestyle_660_100.png','sho':'生活習慣病は努力で防げるか、社会保障専門の記者がひもときます。'
+},'＊子どもって、すごい':{'title':'子どもって、すごい　発明・発想…大人も驚嘆','url':'https://www.asahi.com/special/matome/kodomo_sugoi/','imgm':'https://www.asahicom.jp/special/matome/images/kodomo_660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/kodomo_660_100.png','sho':'発見・発明…全国で報じられた小中学生の「すごい」をまとめました。'
+},'＊ＰＴＡは誰のため？':{'title':'ＰＴＡは誰のため？　親たちの憂鬱','url':'https://www.asahi.com/special/matome/pta01/index.html','imgm':'https://www.asahicom.jp/special/matome/images/PTA_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/PTA_660_100.jpg','sho':'加入・退会・免除…親たちを苦しめるPTAは誰のためのもの？'
+},'＊あの人の介護':{'title':'あの人の介護～家族と、人生と向き合う','url':'https://www.asahi.com/special/matome/anohito_kaigo/','imgm':'https://www.asahicom.jp/special/matome/images/kaigo_660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/kaigo_660_100.png','sho':'病気の妻を、老いた母を。著名人が家族の介護を語ります。'
+},'＊子どもの交通事故を防ぐ':{'title':'小さないのちを守るために　子どもの交通事故を防ぐ','url':'https://www.asahi.com/special/matome/child_accident/','imgm':'https://www.asahicom.jp/special/matome/images/chiisana_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/chiisana_660_100.jpg','sho':'安全の確保は、車を運転する大人の責務です。'
+},'＊いろいろかぞく':{'title':'いろいろかぞく～LGBTQの家族の形～','url':'https://www.asahi.com/special/matome/iroirokazoku1/','imgm':'https://www.asahi.com/special/matome/images/iroirokazoku_main.png','imgb':'https://www.asahi.com/special/matome/images/iroirokazoku_banner.png ','sho':'「いろいろかぞく」を通し、性的少数者と家族のあり方を考えます。'
+},'＊報道の自由はいま':{'title':'報道の自由はいま　記者襲撃、やまぬ世界','url':'https://www.asahi.com/special/matome/journalism01/','imgm':'https://www.asahicom.jp/special/matome/images/journalism_660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/journalism_660_100.png','sho':'命の危険にさらされる記者たち。報道の自由を取り巻く現実は。'
+},'＊大哺乳類展２':{'title':'あなたの知らない大哺乳類展２の世界','url':'https://www.asahi.com/special/matome/mammals2/','imgm':'https://www.asahicom.jp/special/matome/images/mammals2_main_660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/mammals2_banner_660x100.png','sho':'極小ネズミから巨大クジラまで、哺乳類の知られざる世界。'
+},'＊新幹線のいま':{'title':'進化する新幹線のいま','url':'https://www.asahi.com/special/matome/shinkansen/','imgm':'https://www.asahicom.jp/special/train/shinkansenmatome/alfa-x_640x428.png','imgb':'https://www.asahicom.jp/special/train/shinkansenmatome/alfa-x_660x100.png','sho':'進化を続ける新幹線について、注目の話題を集めました。'
+},'＊食品ロス':{'title':'もったいない！食品ロス　国民全員が毎日茶わん１杯分も','url':'https://www.asahi.com/special/matome/foodloss/','imgm':'https://www.asahicom.jp/special/matome/images/foodloss_660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/foodloss_600_100.png','sho':'まだ食べられるのに捨てられる「食品ロス」。私たちにできることは。'
+},'＊浅田真央':{'title':'引退して感じた「幸せ」　浅田真央さん独占インタビュー','url':'https://www.asahi.com/special/matome/maoasada01/','imgm':'https://www.asahicom.jp/special/matome/images/mao_main_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/mao_banner_660x100.jpg','sho':'浅田真央さんが初めてたどり着いた幸せとは？'
+},'＊左遷':{'title':'不条理人事　戸惑うあなたへ','url':'https://www.asahi.com/special/matome/sasen/','imgm':'https://www.asahicom.jp/special/matome/images/sasen640_370.png','imgb':'https://www.asahicom.jp/special/matome/images/sasen660_100.png','sho':'ときに冷たく、不条理な人事を乗り切るための記事を集めました。'
+},'＊ライザップ':{'title':'ライザップに何が起きたのか　急拡大のち赤字転落','url':'https://www.asahi.com/special/matome/rizap/','imgm':'https://www.asahicom.jp/special/matome/images/rizap_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/rizap_660x100.jpg','sho':'Ｍ＆Ａによる急膨張の末、赤字転落したライザップ。何が起きたのか。'
+},'＊ガンダム４０年':{'title':'ガンダム、４０年の先へ　すごい…親父世代が熱中するわけだ','url':'https://www.asahi.com/special/matome/gundam/','imgm':'https://www.asahicom.jp/special/matome/images/660_370gundam.jpg','imgb':'https://www.asahicom.jp/special/matome/images/660_100gundam.jpg','sho':'４０周年を越え、愛されるガンダムシリーズ。世界を魅了する理由は。'
+},'＊炎上広告':{'title':'炎上広告から記者が学ぶジェンダー','url':'https://www.asahi.com/special/matome/enjou/','imgm':'https://www.asahicom.jp/special/matome/images/enjou660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/enjou660_100.png','sho':'女性にまつわる広告の「炎上」を通じ、ジェンダーを考えます。'
+},'＊私たちの沖縄考':{'title':'私たちの沖縄考','url':'https://www.asahi.com/special/matome/okinawa01/','imgm':'https://www.asahicom.jp/special/matome/images/okinawakou01_660-370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/okinawakou01_660-110.jpg','sho':'沖縄のことは他人事ですか？　いま考えたい私たちの沖縄とは。'
+},'＊はやぶさ２':{'title':'はやぶさ２探査、５０億キロの挑戦　生命の起源探る試み','url':'https://www.asahi.com/special/matome/hayabusa2/','imgm':'https://www.asahicom.jp/special/matome/images/hayabusa660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/hayabusa660_100.jpg','sho':'６年５０億キロの旅を続ける探査機はやぶさ２の挑戦をまとめました。'
+},'＊父親のモヤモヤ':{'title':'父親のモヤモヤ','url':'https://www.asahi.com/special/matome/titimoyamoya/','imgm':'https://www.asahicom.jp/special/matome/images/titimoyamoya_660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/titimoyamoya_660_100.png','sho':'子育て当事者の男性記者が「モヤモヤ」に専門家と向き合いました。'
+},'＊ゲームの未来':{'title':'ゲームの未来、どこへ　eスポーツ・猛者たちに世界が熱狂','url':'https://www.asahi.com/special/matome/game01/','imgm':'https://www.asahicom.jp/special/matome/images/game_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/game_660_100.jpg','sho':'ｅスポーツに熱狂、新たな参入も。ゲームの未来はどこへ向かうのか。'
+},'＊虐待':{'title':'小さないのちを守るために　虐待の連鎖を防ぐ','url':'https://www.asahi.com/special/matome/gyakutai/','imgm':'https://www.asahicom.jp/special/matome/images/0612gyakutai660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/0612gyakutai660_100.jpg','sho':'虐待する親は自分も被害者でした･･･虐待の連鎖を考えます'
+},'＊プラごみ危機':{'title':'プラごみ危機　地球覆う「使い捨て」解決の道は','url':'https://www.asahi.com/special/matome/pla01/','imgm':'https://www.asahicom.jp/special/matome/images/puragomi_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/puragomi_660_100.jpg','sho':'地球を覆うプラスチックごみの環境汚染。どうすれば解決できるのか。'
+},'＊発達障害':{'title':'発達障害　当事者の本音','url':'https://www.asahi.com/special/matome/hattatsushougai1/','imgm':'https://www.asahicom.jp/special/matome/images/hattatsusyogai_660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/hattatsusyogai_660x100.png','sho':'発達障害の当事者が日々感じていることを紹介します。'
+},'＊携帯電話料金':{'title':'変わる携帯電話料金　損しないポイントは？','url':'https://www.asahi.com/special/matome/keitaidenwa/','imgm':'https://www.asahicom.jp/special/matome/images/keitaidenwa660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/keitaidenwa660x100.png','sho':'秋から携帯料金が変わります･･･損しないためのポイントをまとめました'
+},'＊「安倍政権支持」の空気':{'title':'「安倍政権支持」の空気、その理由','url':'https://www.asahi.com/special/matome/abe_mood/','imgm':'https://www.asahicom.jp/special/matome/images/abe-seikein-siji_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/abe-seikein-siji_660x100.jpg','sho':'度重なる不祥事に揺れてきた政権が支持される理由とは。(全３回)'
+},'＊八村塁':{'title':'ＮＢＡプレーヤー八村塁　高校３連覇、渡米、そして東京五輪へ','url':'https://www.asahi.com/special/matome/hachimura/','imgm':'https://www.asahicom.jp/special/matome/images/hachimura640_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/hachimura660_100.jpg','sho':'NBAドラフト１巡目で指名された八村塁。その軌跡'
+},'＊年金２千万円不足':{'title':'「年金２千万円不足」じゃあどうすれば？','url':'https://www.asahi.com/special/matome/pension/','imgm':'https://www.asahicom.jp/special/matome/images/nenkin660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/nenkin660_100.jpg','sho':'報告書「年金２千万円不足」の衝撃。私たちはどう備えればいいのか'
+},'＊素顔のビシャラ':{'title':'ゴーンショック　素顔のビシャラ','url':'https://www.asahi.com/special/matome/ghosn-identity/','imgm':'https://www.asahicom.jp/special/matome/images/ghosnshock_660×370.png','imgb':'https://www.asahicom.jp/special/matome/images/ghosnshock_660×100.png','sho':'カリスマ経営者から刑事被告人になったゴーン氏。その軌跡を追う。'
+},'＊旅する記者２０１９参院選':{'title':'旅する記者が国の課題の最前線を徹底ルポ','url':'https://www.asahi.com/special/matome/tabisurukisya-senkyo2019/','imgm':'https://www.asahicom.jp/special/matome/images/tabisuru_660×370.png','imgb':'https://www.asahicom.jp/special/matome/images/tabisuru_660×100.png','sho':'いま、この国で問われているのは何だろう。取材班が西へと車で旅に出た。'
+},'＊アポロ５０年':{'title':'アポロ１１号着陸５０年　人類よ、再び月へ！','url':'https://www.asahi.com/special/matome/moon01/index.html','imgm':'https://www.asahicom.jp/special/matome/images/moon_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/moon_660x100.jpg','sho':'アポロ１１号の着陸から５０年。月への歩みは今も続いています。'
+},'＊ＫｕＴｏｏ':{'title':'ハイヒール強制　＃ＫｕＴｏｏが問う日常の性差別','url':'https://www.asahi.com/special/matome/kutoo/','imgm':'https://www.asahicom.jp/special/matome/images/kutoo_660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/kutoo_660x100.png','sho':'ハイヒール着用をめぐる一連の動きから、日本の「性」を考えます。'
+},'＊がんと著名人':{'title':'がんとともに　あの人も向き合った','url':'https://www.asahi.com/special/matome/gan_star/','imgm':'https://www.asahicom.jp/special/matome/images/gan_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/gan_660x100.jpg','sho':'国民の２人に１人がかかるがん。音楽家もアイドルも悩みました。'
+},'＊自由研究':{'title':'自由研究の達人','url':'https://www.asahi.com/special/matome/jiyuu01/','imgm':'https://www.asahicom.jp/special/matome/images/jiyu_main_660x370.jpg','imgb':'https://www.asahi.com/special/matome/images/kensatucyohokaisei_660x100100.jpg','sho':'苦労する人も多い自由研究。うまく進めるヒントを集めてみました。'
+},'＊インサイド吉本問題':{'title':'インサイド吉本問題','url':'https://www.asahi.com/special/matome/yoshimoto01/','imgm':'https://www.asahicom.jp/special/matome/images/yoshimoto660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/yoshimoto660_100.png','sho':'「闇営業」から様々な問題が浮かび上がった吉本興業。今後の行方は。'
+},'＊かんぽ不正':{'title':'かんぽ不正　郵便局員が売る保険の闇','url':'https://www.asahi.com/special/matome/kampo/','imgm':'https://www.asahicom.jp/special/matome/images/kanpo_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/kanpo_660_100.jpg','sho':'不適切な保険販売が繰り返されたかんぽ保険。生々しい現場の実態を追う。'
+},'＊あの人が語った戦争':{'title':'あの人が語った戦争','url':'https://www.asahi.com/special/matome/peace01/','imgm':'https://www.asahicom.jp/special/matome/images/senso660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/senso660_100.png','sho':'平和を考える夏。歌手・俳優・映画監督…あの人が語った思いとは。'
+},'＊世界の歩き方':{'title':'これで安心！世界の歩き方　特派員に聞く','url':'https://www.asahi.com/special/matome/sekai_aruku/','imgm':'https://www.asahicom.jp/special/matome/images/sekaiaruki_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/sekaiaruki_660x100.jpg','sho':'夏休み、海外旅行には危険も。特派員に「旅行術」を聞きました。'
+},'＊扉の向こうで':{'title':'扉の向こうで','url':'https://www.asahi.com/special/matome/tobiranomukoude01/','imgm':'https://www.asahicom.jp/special/matome/images/tobiranomukoude-660-370.png','imgb':'https://www.asahicom.jp/special/matome/images/tobiranomukoude-660-100.png','sho':'ひきこもりの当事者が、社会に背を向けざるを得なかったのは。'
+},'＊４Ｋ放送':{'title':'４Ｋ放送は暗いのか','url':'https://www.asahi.com/special/matome/4k/','imgm':'https://www.asahicom.jp/special/matome/images/4k_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/4k_660_100.jpg','sho':'４Ｋ放送が「暗い」。相次ぐ苦情の理由を探ると、意外な実態が見えてきた。'
+},'＊恐竜博２０１９':{'title':'新発見いろいろ「恐竜博２０１９」','url':'https://www.asahi.com/special/matome/dino2019/','imgm':'https://www.asahicom.jp/special/matome/images/dino2019-660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/dino2019-660x100.png','sho':'謎の恐竜デイノケイルスにむかわ竜…話題の「恐竜博2019」をより深く。'
+},'＊性暴力':{'title':'性暴力、語り始めた被害者（ひと）たち','url':'https://www.asahi.com/special/matome/sexual-violence/','imgm':'https://www.asahicom.jp/special/matome/images/sexual-violence660%EF%BD%98370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/sexual-violence660%EF%BD%98100.jpg','sho':'勇気を持って語り始めた人たちの声に耳を澄ましませんか？'
+},'＊モノ語る':{'title':'平和連載・モノ語る','url':'https://www.asahi.com/special/matome/monogataru/','imgm':'https://www.asahicom.jp/special/matome/images/mono660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/mono660_100.jpg','sho':'戦争体験者が減る中、重みを増す「モノ」。そこに思いを託す人々の物語。'
+},'＊ブルーの絶景':{'title':'ブルーの絶景を探しに インスタ映えする水辺スポット集','url':'https://www.asahi.com/special/matome/travelblue/','imgm':'https://www.asahicom.jp/special/matome/images/blue_660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/blue_660x100.jpg','sho':'記者が見つけた、夏こそ訪れたい「ブルーの絶景」をまとめました。'
+},'＊「表現の不自由展」中止':{'title':'あいちトリエンナーレを考える','url':'https://www.asahi.com/special/matome/hyougennofujiyuuten/','imgm':'https://www.asahicom.jp/special/matome/images/aichi_triennale_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/aichi_triennale_660_100.jpg','sho':'「表現の不自由展・その後」が一時中止されました。今も残る影響と、今後を考えるための視点を紹介します。'
+},'＊学校がつらい':{'title':'学校に行くのがつらくなったら','url':'https://www.asahi.com/special/matome/gakkougaturakunattara/','imgm':'https://www.asahicom.jp/special/matome/images/school_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/school_660x100.jpg','sho':'学校に行くのがつらい、そんなあなたへ伝えたいメッセージです。'
+},'＊れいわ新選組':{'title':'れいわ新選組　熱狂のその後','url':'https://www.asahi.com/special/matome/reiwa/','imgm':'https://www.asahicom.jp/special/matome/images/reiwa660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/reiwa660_100.png','sho':'参院選で躍進したれいわ新選組。あの熱狂のこれからを考えます。'
+},'＊私たちの宝塚歌劇':{'title':'１０５周年・私たちの宝塚歌劇','url':'https://www.asahi.com/special/matome/takarazuka105/','imgm':'https://www.asahicom.jp/special/matome/images/takarazuka105_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/takarazuka105_660_100.jpg','sho':'１０５周年を迎えた宝塚歌劇のいまを、たっぷりご紹介します。'
+},'＊奇跡の高校':{'title':'孫正義の側近から高校の校長へ　「底辺校」奇跡の物語','url':'https://www.asahi.com/special/matome/kisekinoHS/','imgm':'https://www.asahicom.jp/special/matome/images/kisekiHS660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/kisekiHS660_100.png','sho':'孫正義の側近から高校の校長へ…「底辺校」奇跡の物語を紹介します。'
+},'＊漫画村':{'title':'漫画村を追った７００日','url':'https://www.asahi.com/special/matome/mangamura/','imgm':'https://www.asahicom.jp/special/matome/images/manngamura_sp.jpg','imgb':'https://www.asahicom.jp/special/matome/images/manngamura_pc.jpg','sho':'人気漫画を無断で掲載していた「漫画村」。これまでの経緯を追います。'
+},'＊トヨタを知る10のトピック':{'title':'トヨタを知る10のトピック','url':'https://www.asahi.com/special/matome/toyota10topic/','imgm':'https://www.asahicom.jp/special/matome/images/Toyotanoimawoshiru_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/Toyotanoimawoshiru_660x100.jpg','sho':'トヨタのいまを知るための10のトピックを解説します。'
+},'＊孤独死':{'title':'あなたは誰ですか　ルポ孤独死','url':'https://www.asahi.com/special/unidentified/','imgm':'https://www.asahicom.jp/special/unidentified/images/banner/body_16x9.jpg','imgb':'https://www.asahicom.jp/special/unidentified/images/banner/body_660x100.jpg','sho':'身元不明遺体の発見現場に記者が立ち会い、写真と記事で現場のリアルを伝えます。'
+},'＊皇后になった雅子さま':{'title':'皇后になった雅子さま','url':'https://www.asahi.com/special/matome/kougoumasakosama/index.html','imgm':'https://www.asahicom.jp/special/matome/images/20191119kougousama_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/20191119kougousama_660_100.jpg','sho':'皇后になった雅子さま。記者が見た国民に寄り添う姿を紹介します。'
+},'＊５０代の居場所':{'title':'５０代の居場所を探して','url':'https://www.asahi.com/special/matome/ibasho/','imgm':'https://www.asahicom.jp/special/matome/images/matome_660x370-100.jpg','imgb':'https://www.asahicom.jp/special/matome/images/matome_660x100-100.jpg','sho':'管理職から外れる「役職定年」を迎えた後、あなたに居場所はありますか？'
+},'＊見送られた津波対策':{'title':'見送られた津波対策　訴訟記録から浮かんだ事実','url':'https://www.asahi.com/special/matome/tsunami-measures/','imgm':'https://www.asahi.com/special/matome/images/tunamitaisaku_660X370.png','imgb':'https://www.asahi.com/special/matome/images/tunamitaisaku_660X100.png','sho':'福島第一原発事故をめぐり民事訴訟記録から浮かび上がった事実をたどった。'
+},'＊老後レス時代・妖精おじさん':{'title':'老後レス時代・妖精おじさん','url':'https://www.asahi.com/special/matome/rougoresuyouseisan/','imgm':'https://www.asahicom.jp/special/matome/images/20191120youseisan_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/20191120youseisan_660_100.jpg','sho':'企業にいる「妖精さん」を追いました。'
+},'＊小田和正':{'title':'小田和正さん　もっと、みんなの近くへ','url':'https://www.asahi.com/special/matome/odakazumasa/?iref=kijiue_bnr','imgm':'https://www.asahicom.jp/special/matome/images/660%C3%97370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/660%C3%97100.jpg','sho':'小田和正さんにとっての音楽との向き合い方、「良い曲」とは。'
+},'＊変わるコンビニ':{'title':'変わるコンビニ','url':'https://www.asahi.com/special/matome/conveniencestore/','imgm':'https://www.asahicom.jp/special/matome/images/convenience660_370.png','imgb':'https://www.asahicom.jp/special/matome/images/convenience660_100.png','sho':'「飽和状態」と言われてきたコンビニ業界がいま転換期を迎えています。'
+},'＊やまゆり園事件':{'title':'やまゆり園裁判の最新情報','url':'https://www.asahi.com/topics/word/%E7%9B%B8%E6%A8%A1%E5%8E%9F%E3%81%AE%E3%82%84%E3%81%BE%E3%82%86%E3%82%8A%E5%9C%9245%E4%BA%BA%E6%AE%BA%E5%82%B7%E4%BA%8B%E4%BB%B6.html','imgm':'https://www.asahicom.jp/special/matome/images/yamayuri_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/yamayuri_660x100.jpg','sho':'重い障害のある入所者１９人の命が奪われたやまゆり園事件。元職員植松聖被告の裁判員裁判の様子などを詳報する。'
+},'＊筋肉':{'title':'筋肉盛り上がってます','url':'https://www.asahi.com/special/matome/muscle01/','imgm':'https://www.asahicom.jp/special/matome/images/kinniku660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/kinniku660x100.png','sho':'筋トレは自分との戦いだ。鍛え抜いた先に見える景色とは。'
+},'＊老後レス時代・警備員さん':{'title':'老後レス時代・警備員さん','url':'https://www.asahi.com/special/matome/rougoresukeibiinsan/','imgm':'https://www.asahicom.jp/special/matome/images/191120keibiinsan_660_370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/191120keibiinsan_660_100.jpg','sho':'高齢になっても働くのが当たり前。「老後レス時代」の生き方を考えます。'
+},'＊ボーイズラブ':{'title':'アジアで観るボーイズラブ','url':'https://www.asahi.com/special/matome/boyslove/','imgm':'https://www.asahicom.jp/special/matome/images/asaa_boyslove_660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/asaa_boyslove_660x100.png','sho':'ボーイズラブ（ＢＬ）のドラマが、タイで大旋風。熱い現場を探ります。'
+},'＊米中衝突':{'title':'米中衝突の足元で','url':'https://www.asahi.com/special/matome/beichu-shoutotsu/','imgm':'https://www.asahicom.jp/special/matome/images/beichu660_370.png','imgb':'','sho':'二つの超大国が覇権争いを繰り広げている。その足元で何が起きているのか。'
+},'＊みんなの寅さん考':{'title':'男はつらいよを語り尽くす　みんなの寅さん考','url':'https://www.asahi.com/special/matome/torasan/','imgm':'https://www.asahicom.jp/special/matome/images/torasan660-370.png','imgb':'https://www.asahicom.jp/special/matome/images/torasan660-100.jpg','sho':'寅さんファンを自認する方々にその魅力を語ってもらった。'
+},'＊政治と向き合う女性たち':{'title':'政治と向き合う女性たち','url':'https://www.asahi.com//special/matome/seijizyosei/imdex.html','imgm':'https://www.asahicom.jp/special/matome/images/seijizyosei660%E3%83%BB370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/seijizyosei660%E3%83%BB100.jpg','sho':'この国の政治の現場では依然として女性が少ない。どうしたら増えるのか。'
+},'＊見た目問題':{'title':'見た目問題と向き合う','url':'https://www.asahi.com/special/matome/mitamemondai/','imgm':'https://www.asahicom.jp/special/matome/images/mitamemondai660%E3%83%BB370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/mitamemondai660%E3%83%BB100.jpg','sho':'厳しい現実に直面する当事者たちの姿を通し、私たちが見た目問題とどう向き合ったらいいのかを考えたい。'
+},'＊カナリアの歌':{'title':'ルポ2020　カナリアの歌','url':'https://www.asahi.com/special/matome/canaria/','imgm':'https://www.asahicom.jp/special/matome/images/kanaria_chumoku254x144.png','imgb':'https://www.asahicom.jp/special/matome/images/kanaria_660x100.png','sho':'かつて炭鉱でいち早く異変を知らせたカナリアのように、危機や転換点に直面する人たちがいます。'
+},'＊阪神大震災':{'title':'1.17　再現／阪神・淡路大震災','url':'https://www.asahi.com/special/hanshin-shinsai117/','imgm':'https://www.asahicom.jp/special/matome/images/117teaser16_9.jpg','imgb':'https://www.asahicom.jp/special/hanshin-shinsai117/img/common/728x110px.jpg','sho':'阪神・淡路大震災から25年。映像や音声で、あの日の出来事を「再現」します。'
+},'＊アメリカ民主党候補者選び':{'title':'米民主党の候補者選び','url':'https://www.asahi.com/topics/word/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E6%B0%91%E4%B8%BB%E5%85%9A%E5%80%99%E8%A3%9C%E8%80%85%E9%81%B8%E3%81%B3.html','imgm':'https://www.asahicom.jp/special/matome/images/200205_america_d-660x370.png','imgb':'https://www.asahicom.jp/special/matome/images/200130_america_d-660x100.png','sho':'スーパーチューズデーを終え、民主党の候補者選びはバイデン氏とサンダース氏の一騎打ちに。トランプ氏と戦うのは誰か。更新中。'
+},'＊新型肺炎':{'title':'新型コロナウイルス最新情報','url':'https://www.asahi.com/topics/word/%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9.html','imgm':'https://www.asahicom.jp/special/coronavirus/images/covid19-16x9.jpg','imgb':'https://www.asahicom.jp/special/coronavirus/images/covid19-banner-660x100.jpg','sho':'最新ニュースや感染状況、地域別ニュース、予防方法などの生活情報はこちらから。'
+},'＊がんとともに若い世代':{'title':'がんとともに―若い世代―','url':'https://www.asahi.com/special/matome/ayasedai/','imgm':'https://www.asahicom.jp/special/matome/images/gantotomoni_wakaisedai_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/gantotomoni_wakaisedai_660x100.jpg','sho':'受験、就職、出産などを経験する15～39歳のAYA(Adolescent and Young Adult＝思春期と若い成人)世代のがん患者には、幅広い支援が必要です。'
+},'＊がんとともに小児病棟':{'title':'がんとともに小児病棟から','url':'https://www.asahi.com/special/matome/syonibyotokara/','imgm':'https://www.asahicom.jp/special/matome/images/gantotomoni_syounibyoutoukara_660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/gantotomoni_syounibyoutoukara_660x100.jpg','sho':'幼い患者と、家族の闘病を追いました。'
+},'＊ゲノムとがん':{'title':'私、がんになるの？　ゲノムが迫る選択','url':'https://www.asahi.com/special/genome-medicine/','imgm':'https://www.asahicom.jp/special/genome-medicine/images/banner/genome-16x9.jpg','imgb':'https://www.asahicom.jp/special/genome-medicine/images/banner/genome-660x100.jpg','sho':'「がんになりやすい」遺伝子変異を持つ人たちがいます。生きるための選択に正面から向き合う人たちの物語を、映像と文章で。'
+},'＊マツダの１００年':{'title':'創業１００年を迎えたマツダを特集','url':'https://www.asahi.com/topics/word/%E3%83%9E%E3%83%84%E3%83%80%E3%81%AE%EF%BC%91%EF%BC%90%EF%BC%90%E5%B9%B4.html','imgm':'https://www.asahicom.jp/images20/fbox/edit5/202002/mazda100years640_428.png','imgb':'https://www.asahicom.jp/images20/fbox/edit5/202002/mazda100years660_100.png','sho':'マツダが創業１００年を迎えた。浮き沈みをくり返しながらも、独自の技術力で生き抜いてきた背景と、次の１００年へ向けた戦略とは。'
+},'＊谷村新司さん　楽しく、自然に、ポジティブに':{'title':'谷村新司さん　楽しく、自然に、ポジティブに','url':'https://www.asahi.com/special/matome/tanimurashinji/','imgm':'https://www.asahi.com/special/matome/images/tanimuramatome_660x370.jpeg.jpg','imgb':'https://www.asahi.com/special/matome/images/tanimuramatome_660x100.jpg','sho':'シンガー・ソングライターで音楽家の谷村新司さん（71）が半生を語りました。「チャンピオン」「昴―すばる―」など名曲誕生の背景とは。'
+},'＊イラン抵抗の三日月':{'title':'イラン 抵抗の三日月','url':'https://www.asahi.com/special/pmf/','imgm':'https://www.asahicom.jp/special/matome/images/pmf-special-660x370.jpg','imgb':'https://www.asahicom.jp/special/matome/images/pmf-matome-660x100.jpg','sho':'米イラン対立の渦中にある謎の武装組織。3カ月以上に及ぶ交渉の末、朝日新聞記者が戦闘団の訓練現場と施設に入った。'
+},'＊パラサイト半地下の家族':{'title':'パラサイト　半地下の家族','url':'https://www.asahi.com/topics/word/%E5%8D%8A%E5%9C%B0%E4%B8%8B%E3%81%AE%E5%AE%B6%E6%97%8F.html','imgm':'https://www.asahi.com/special/matome/images/parasite_660%E3%83%BB370.png','imgb':'https://www.asahi.com/special/matome/images/parasite_660%E3%83%BB100.png','sho':'米アカデミー賞作品賞、カンヌ国際映画祭の最高賞パルムドールなどに輝いた映画「パラサイト　半地下の家族」。最新ニュースはこちら。'
+},'＊がんとともに前へ':{'title':'がんとともに―前へ―','url':'https://www.asahi.com/special/matome/tgantotomonimaee/','imgm':'https://www.asahi.com/special/matome/images/20200210_maee_660_370.jpg','imgb':'https://www.asahi.com/special/matome/images/20200210_maee_660_100.jpg','sho':'がんになり、戸惑いながらも、身体を動かすことに生きがいを見いだす人たちがいます。あきらめず、前へ進み続ける姿を紹介します。'
+},'＊ＪＡＳＲＡＣ':{'title':'音楽は誰のものか　JASRACと著作権','url':'https://www.asahi.com/special/matome/jasrac/','imgm':'https://www.asahi.com/special/matome/images/JASRAC-660370.jpg','imgb':'https://www.asahi.com/special/matome/images/JASRAC-660100.jpg','sho':'形を持たず、演奏されれば消えていく「音楽」。その価値を守り、より多くの人が楽しめるようにするにはどうしたらいいのかを考えます。'
+},'＊ニュース４Ｕ':{'title':'＃ニュース４Ｕ','url':'https://www.asahi.com/special/n4u/','imgm':'https://www.asahicom.jp/special/matome/images/n4u660_370.jpg','imgb':'https://www.asahicom.jp/special/news/images/n4u660_80.jpg','sho':'「＃Ｎ４Ｕ」取材班が読者の皆さんから身近な疑問や困りごとを募集し、ＳＮＳで情報交換しながら深掘り取材します。'
+},'＊空からたどる復興':{'title':'空からたどる復興','url':'https://www.asahi.com/special/matome/sora-fukko/','imgm':'https://www.asahicom.jp/images20/fbox/edit5/202003/sorakara_660x370.png','imgb':'https://www.asahicom.jp/images20/fbox/edit5/202003/sorakara_660x100.png','sho':'東日本大震災から９年。宮城の沿岸被災地を空からたどりました。'
+},'＊空襲１９４５':{'title':'空襲１９４５','url':'https://www.asahi.com/special/kushu1945/','imgm':'https://www.asahicom.jp/special/kushu1945/images/banner640x428_osusume.jpg','imgb':'https://www.asahicom.jp/special/kushu1945/images/banner600x60.jpg','sho':'あのとき、日本中が戦場だった。東京・大阪・福岡など各地の写真300枚や映像、データマップで惨禍を伝えます。'
+},'＊沖縄はいま':{'title':'沖縄はいま','url':'https://www.asahi.com/special/okinawa/','imgm':'https://www.asahicom.jp/special/matome/images/18okinawa_r370_660.png','imgb':'https://www.asahicom.jp/special/matome/images/18okinawa_100_660.png','sho':'続く本土との溝、揺れる米軍基地問題。沖縄でいま、何が起きているのか。'
+},'＊核といのち':{'title':'核といのちを考える','url':'https://www.asahi.com/special/nuclear_peace/','imgm':'https://www.asahicom.jp/special/matome/images/18kakutoinoti_360_660.png','imgb':'https://www.asahicom.jp/special/matome/images/18kakutoinoti_100_660.png','sho':'被爆者はいま、核兵器と人類の関係は。インタビューやコラムで問い直します。'
+},'＊ＭＩＪ２':{'title':'追跡メイドインジャパン和牛編','url':'https://www.asahi.com/special/mij2/','imgm':'https://www.asahicom.jp/special/mij/images/mij-wagyu2-16x9.jpg','imgb':'https://www.asahicom.jp/special/mij/images/mij-wagyu2-banner-660x100.jpg','sho':'世界で和牛ブームが起こる以前に、業界の猛反対を押し切って和牛を輸出した人物がいる。彼は世界に美食を届けた功労者か。それとも…。'
+},'＊東京１００デイズ':{'title':'東京100days 新型コロナウイルスの記録','url':'https://www.asahi.com/special/coronavirus/tokyo-100days/','imgm':'https://www.asahi.com/special/coronavirus/images/tokyo100-16x9.jpg','imgb':'https://www.asahi.com/special/coronavirus/images/tokyo100-banner-660x100.jpg','sho':'2020年、東京の風景は多くの人が思い描いていたものとは全く異なる姿になった。未知のウイルスとどう向き合い、誰がどう動いたのか。首都・東京の100日間を追う。'
+},'＊検察庁法改正案':{'title':'検察庁法改正案','url':'https://www.asahi.com/topics/word/%E6%A4%9C%E5%AF%9F%E5%BA%81%E6%B3%95%E6%94%B9%E6%AD%A3%E6%A1%88.html','imgm':'https://www.asahi.com/special/matome/images/kensatucyohoan_660x370100.jpg','imgb':'https://www.asahi.com/special/matome/images/kensatucyohokaisei_660x100100.jpg','sho':'ツイッターで拡散した検察庁法改正案への抗議、その行方は。問題点や識者たちの見解、そして黒川検事長の異色の経歴とは。'
+},'＊２０２０都知事選':{'title':'2020東京都知事選挙','url':'https://www.asahi.com/senkyo/tochijisen/','imgm':'https://www.asahi.com/senkyo/tochijisen/2020/images/common/16x9.jpg','imgb':'https://www.asahi.com/senkyo/tochijisen/2020/images/common/660x100.jpg','sho':'6月18日告示、7月5日投開票の東京都知事選の特集ページ。候補者一覧や開票速報も'
+},'＊豪雨災害':{'title':'2020年夏　豪雨災害','url':'https://www.asahi.com/topics/word/%E8%B1%AA%E9%9B%A8%E7%81%BD%E5%AE%B3.html','imgm':'https://www.asahi.com/gouusaigai_640_428.jpg','imgb':'https://www.asahi.com/gouusaigai_660_100.jpg','sho':''
+},'＊戦後７５年':{'title':'戦後75年特集','url':'https://www.asahi.com/topics/word/%E6%88%A6%E5%BE%8C75%E5%B9%B4.html','imgm':'https://www.asahicom.jp/images20/fbox/edit5/202007/sengo75_660_370.jpg','imgb':'https://www.asahicom.jp/topics/images/200728_sengo75_660_100.jpg','sho':'2020年は終戦75年の節目です。あの時のことを語れる人は減ってきています。まだ、間に合います。戦争を知る人々からのバトン、受け取りませんか。'
+},'＊ワールドアスリート':{'title':'ワールドアスリート','url':'https://www.asahi.com/olympics/2020/world-athlete/','imgm':'https://www.asahicom.jp/olympics/2020/world-athlete/images/16tai9_640x360.png','imgb':'https://www.asahicom.jp/olympics/2020/world-athlete/images/660x100.png','sho':'2度目の開幕1年前を迎えた東京五輪。近代五輪史上初の事態に、主役である選手の胸の内は揺れ動いている。世界のアスリートの声を聞いた。'
+},'＊自民党総裁選２０２０':{'title':'自民党総裁選2020','url':'https://www.asahi.com/topics/word/%E8%87%AA%E6%B0%91%E5%85%9A%E7%B7%8F%E8%A3%81%E9%81%B8.html','imgm':'https://www.asahicom.jp/images20/fbox/edit5/202008/sosaisen_640_360.jpg','imgb':'https://www.asahicom.jp/images20/fbox/edit5/202008/sosaisen_660_100.jpg','sho':'安倍晋三首相の辞任表明を受けた自民党総裁選は、次の首相を選ぶことに事実上つながります。出馬を表明した3氏の動きを紹介します。'
+}};var insert_html ='';var insert_links = "";var insert_imgphoto = "";var spLayout = true;if(typeof sc_asa_digi_prop53 !== undefined){if( ( sc_asa_digi_prop53.indexOf('＊新型肺炎,')!=-1 || sc_asa_digi_prop53.indexOf(',＊新型肺炎')!=-1)){document.addEventListener("DOMContentLoaded", function(event) {var script = document.createElement("script");script.setAttribute("type", "text/javascript");script.setAttribute("src", "https://www.asahicom.jp/special/shingatahaien/js/info_latest.txt");if(navigator.userAgent.indexOf('Trident')!==-1){setTimeout(function(){document.getElementsByTagName("head")[0].appendChild(script)},1500);}else{document.getElementsByTagName("head")[0].appendChild(script);}});}}for(key in newsmatomes){if(typeof sc_asa_digi_prop53 !== undefined){if(sc_asa_digi_prop53.indexOf(key)!=-1){var m = newsmatomes[key];var m_url = m['url'];if(m['url']!="" && m['imgb']!="" && m['title']!=""){document.getElementById('KijiueBnr').innerHTML = '<div class="title mb10"><a href="'+ m_url +'?iref=kijiue_bnr" id="title_bnr"><img src="'+ m['imgb'] +'" alt="'+ m['title'] +'" width="330"></a></div>';}document.addEventListener("DOMContentLoaded", function(event) {if(document.getElementById("matomenews_area") == null){var matomenews_area = document.createElement('div');matomenews_area.classList.add("Section");if( document.getElementById("ArticleBody") != null){document.getElementById("ArticleBody").parentNode.insertBefore(matomenews_area, document.getElementById("ArticleBody").nextElementSibling);} else {   spLayout = false;if(document.getElementById('Main').getElementsByClassName('ArticleNoteBox')[0] != null){document.getElementsByClassName('ArticleNoteBox')[0].parentNode.insertBefore(matomenews_area, document.getElementsByClassName('ArticleNoteBox')[0].nextElementSibling);} else if(document.getElementById('Main').getElementsByClassName('LoginSelectArea')[0]!= null){document.getElementsByClassName('LoginSelectArea')[0].parentNode.insertBefore(matomenews_area, document.getElementsByClassName('LoginSelectArea')[0].nextElementSibling);} else {document.getElementsByClassName('ArticleText')[0].parentNode.insertBefore(matomenews_area, document.getElementsByClassName('ArticleText')[0].nextElementSibling);}}matomenews_area.setAttribute('id','matomenews_area');}if(m['url']!="" && m['imgm']!="" && m['title']!="" && m['sho']!=""){insert_links = '<style>#Main #insert_img a:hover img{opacity:.75}#Main #matome_textinfo{width: 460px;float:right;}#wrapper #matome_textinfo{line-height:1.8;width:calc( 100% - 130px );float:right;}#wrapper #matome_img{width:120px;}</style>';if(spLayout) insert_links += '<div class="Title BdrNon pl0" style="background:none;"><h2><a href="'+ m_url +'?iref=kijishita_title">'+ m['title'] +'</a></h2></div>';insert_links += '<div id="matome_insert_img" style="float:left;"><p><a href="'+ m_url +'?iref=kijishita_bnr" style="display:block;"><img src="'+ m['imgm'] +'" width="180" alt="'+ m['title'] +'" id="matome_img"></a></p></div>';insert_links += '<div id="matome_textinfo">';      if(!spLayout) insert_links += '<div class="Title BdrNon pl0" style="background:none;"><h2><a href="'+ m_url +'?iref=kijishita_title">'+ m['title'] +'</a></h2></div>';insert_links += '<p class="Read txtss">'+ m['sho'] +'［<a href="'+ m_url +'?iref=kijishita_link" class="bold">記事一覧へ</a>］</p>';insert_links += '</div>';}document.getElementById('matomenews_area').innerHTML = insert_html + insert_links;　});break;}}}})();</script>
+
+<div class="Title">
+<h1>菅氏、総裁選立候補を正式表明 「持てる力全て尽くす」</h1>
+</div>
+<div class="ArticleInfo"><p class="UpdateDate"><time datetime="2020-09-02T17:40+09:00">2020/9/2 17:40</time></p>
+</div></div><!--ArticleTitle END-->
+<div class="ThmbPhotoArea">
+<div class="ThmbPhotoBox">
+<div class="ThmbPhoto">
+<a title="自民党総裁選の立候補会見に臨む菅義偉官房長官=2020年9月2日午後5時1分、国会内、恵原弘太郎撮影" href="photo/AS20200902001717.html">
+<img Width="50" oncontextmenu="return false" alt="自民党総裁選の立候補会見に臨む菅義偉官房長官=2020年9月2日午後5時1分、国会内、恵原弘太郎撮影" data-original="https://www.asahicom.jp/articles/images/hw120_AS20200902001717_comm.jpg" src="https://www.asahicom.jp/sp/images/image_loading.gif" class="LazyLoad"/>
+</a>
+</div><!--ThmbPhoto-->
+</div><!--ThmbPhotoBox-->
+<div class="ThmbPhotoBox">
+<div class="ThmbPhoto">
+<a title="自民党総裁選に立候補表明する菅義偉官房長官=2020年9月2日午後、東京都千代田区、加藤諒撮影" href="photo/AS20200902001718.html">
+<img Height="50" oncontextmenu="return false" alt="自民党総裁選に立候補表明する菅義偉官房長官=2020年9月2日午後、東京都千代田区、加藤諒撮影" data-original="https://www.asahicom.jp/articles/images/hw120_AS20200902001718_comm.jpg" src="https://www.asahicom.jp/sp/images/image_loading.gif" class="LazyLoad"/>
+</a>
+</div><!--ThmbPhoto-->
+</div><!--ThmbPhotoBox-->
+</div><!--ThmbPhotoArea-->
+<div class="ArticleText">
+<!--googleon:index-->
+<p>　菅義偉官房長官（71）は2日夕、国会内で記者会見を開き、自民党総裁選への立候補を正式に表明した。岸田文雄政調会長（63）と石破茂元幹事長（63）が1日に表明しており、総裁選の構図が固まった。</p>
+
+<!-- Rectangle Ad BGN -->
+
+<div class="ArticleRectangleAd">
+    <p>ADVERTISEMENT</p>
+    <!-- /57465213/www.asahi.com/sp/article/kijinaka_rect1 -->
+    <div id='div-gpt-ad-1563264525246-0'>
+      <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1563264525246-0'); });
+      </script>
+    </div>
+</div>
+<!-- Rectangle Ad END -->
+
+<p>　菅氏は会見で、「（安倍晋三）総理の無念な思いを推察している。政治の空白は決して許されない」と強調。「すべての国民のみなさんが安心できる生活を一日も早く取り戻すため、安倍政権を支えた者として、今なすべきことは何か熟慮してきた。私は総裁選に立候補する決意をした」と説明した。「（安倍政権の）取り組みをしっかり継承し、さらに前に進めるために、私の持てる力全てを尽くす覚悟だ」とも語った。</p>
+
+<p>　菅氏は総裁選に初挑戦。第2次安倍政権では約7年8カ月にわたって官房長官を務め、歴代最長の在任期間も更新し続けている。昨年は新元号「令和」を発表。「令和おじさん」として一気に知名度を上げた。</p>
+
+<p>　岸田氏、石破氏がそれぞれ率いる二つの派閥を除く全5派閥から推される構図となっており、菅氏が優位に立っている。</p>
+
+<p id="_gtm_LastLine" style="margin:0 0px; height:1px;"></p>
+<!--googleoff:index-->
+<!-- buttonStyle : NORMAL -->
+</div><!-- ArticleText-->
+<div class="UtilityBar">
+<ul>
+<li class="Facebook"><a href="javascript:void(0);" onclick="sc_trackClickBtn('article|btn_facebook','');"><span class="SnsName">Facebook</span></a></li>
+<li class="Twitter"><a href="javascript:void(0);" target="_blank" id="twshare" onclick="sc_trackClickBtn('article|btn_twitter','');"><span class="SnsName">Twitter</span></a><a href="javascript:void(0);" target="_blank" id="twlink" onclick="sc_trackClickBtn('article|btn_twitter_list','');"><span class="count">list</span></a></li>
+<li class="Hatena"><a href="javascript:void(0);" target="_blank" onclick="sc_trackClickBtn('article|btn_hatena','');"><span class="SnsName">Hatena</span><span class="count">0</span></a></li>
+<li class="Line"><a href="javascript:void(0);" onclick="sc_trackClickBtn('article|btn_line','');"><span class="SnsName">Line</span></a></li>
+<li class="Mail"><a href="javascript:void(0);" onclick="sc_trackClickBtn('article|btn_mail','');"><span class="ServiceName">メール</span></a></li>
+</ul>
+</div><!--UtilityBar END-->
+</div><!-- ArticleBody-->
+<!-- 緊急時用リンクはありません -->
+
+<section>
+<!-- Ad BGN -->
+<script>
+if (document.location.href.indexOf('/sp/articles/photo/') != -1) {
+  googletag.cmd.push(function() {
+    googletag.pubads().setTargeting("PageKind","photo");
+  });
+} else if (document.location.href.indexOf('/sp/articles/') != -1) {
+  googletag.cmd.push(function() {
+    googletag.pubads().setTargeting("PageKind","article");
+  });
+}
+</script>
+<!-- dfptag　スマホ無料域 速報テキスト５行 ★ここから -->
+<div class="PrInfoBlock">
+<div class="Title"><h2>PR</h2></div>
+<ul id="DfpPrInfo1" class="PrTextList">
+<li id="DfpPrInfo1_1" style="border-bottom: none;">
+<div id="div-gpt-ad-sp_text_1">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_text_1');
+});
+</script>
+</div>
+</li>
+<li id="DfpPrInfo1_2" style="border-bottom: none;">
+<div id="div-gpt-ad-sp_text_2">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_text_2');
+});
+</script>
+</div>
+</li>
+<li id="DfpPrInfo1_3" style="border-bottom: none;">
+<div id="div-gpt-ad-sp_text_3">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_text_3');
+});
+</script>
+</div>
+</li>
+<li id="DfpPrInfo1_4" style="border-bottom: none;">
+<div id="div-gpt-ad-sp_text_4">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_text_4');
+});
+</script>
+</div>
+</li>
+<li id="DfpPrInfo1_5" style="border-bottom: none;">
+<div id="div-gpt-ad-sp_text_5">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_text_5');
+});
+</script>
+</div>
+</li>
+<!--
+<li id="DfpPrInfo1_6" style="border-bottom: none;">
+<div id="div-gpt-ad-sp_text_6">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_text_6');
+});
+</script>
+</div>
+</li>
+-->
+</ul>
+</div>
+<!-- 広告並び替え -->
+<script>
++function(){
+  var li = document.querySelectorAll('ul#DfpPrInfo1 > li');
+  var arr = [];
+  for (var i = 0; i < li.length; i++) {arr.push([Math.random(), li[i]]);}
+  arr.sort(); 
+  arr.forEach(function(v){document.getElementById('DfpPrInfo1').appendChild(v[1]);});
+}();
+</script>
+<!-- dfptag　スマホ無料域 速報テキスト５行 ★ここまで -->
+<!-- Ad END -->
+</section>
+<section id="RelatedNews">
+<div class="Section RelatedLinkMod EndlessScrolling">
+<div class="Title">関連ニュース</div>
+<ul class="InnerArticleList">
+<li><a href="https://www.asahi.com/articles/ASN917H4XN91UTIL00P.html?iref=sp_rellink_01" ><p class="Image"><img oncontextmenu="return false" alt="写真・図版" class="LazyLoad" data-original="https://www.asahicom.jp/articles/images/AS20200901002794_commL.jpg" src="//www.asahicom.jp/sp/images/image_loading.gif"></p><p class="Headline">相次ぐ疑惑、かわし続けた安倍首相　官僚も「ヒラメ」化</p></a></li>
+<li class="FeatureBox_list">
+<div id='ad-rellink-1'>
+</div>
+</li>
+<li><a href="https://www.asahi.com/articles/ASN9172SFN91UTFK00P.html?iref=sp_rellink_02" ><p class="Image"><img oncontextmenu="return false" alt="写真・図版" class="LazyLoad" data-original="https://www.asahicom.jp/articles/images/AS20200901002559_commL.jpg" src="//www.asahicom.jp/sp/images/image_loading.gif"></p><p class="Headline">党員投票なし、議論打ち切って決定　「正統性問われる」</p></a></li>
+<li><a href="https://www.asahi.com/articles/ASN917JNLN91PTIL014.html?iref=sp_rellink_03" ><p class="Image"><img oncontextmenu="return false" alt="写真・図版" class="LazyLoad" data-original="https://www.asahicom.jp/articles/images/AS20200901002833_commL.jpg" src="//www.asahicom.jp/sp/images/image_loading.gif"></p><p class="Headline">簡易総裁選に地方党員の不満噴出　「民主主義じゃない」</p></a></li>
+<li><a href="https://www.asahi.com/articles/ASN915JHZN91UTFK016.html?iref=sp_rellink_04" ><p class="Image"><img oncontextmenu="return false" alt="写真・図版" class="LazyLoad" data-original="https://www.asahicom.jp/articles/images/AS20200901001778_commL.jpg" src="//www.asahicom.jp/sp/images/image_loading.gif"></p><p class="Headline">石破氏「民主主義、正しく実現」　総裁選立候補を表明</p></a></li>
+<li class="FeatureBox_list">
+<div id='ad-rellink-2'>
+</div>
+</li>
+<li><a href="https://www.asahi.com/articles/ASN914W68N91UTFK00Y.html?iref=sp_rellink_05" ><p class="Image"><img oncontextmenu="return false" alt="写真・図版" class="LazyLoad" data-original="https://www.asahicom.jp/articles/images/AS20200901001538_commL.jpg" src="//www.asahicom.jp/sp/images/image_loading.gif"></p><p class="Headline">岸田氏が総裁選立候補を正式表明「私の全てをかけて」</p></a></li>
+<li><a href="https://www.asahi.com/articles/ASN805VWTN8XUTIL065.html?iref=sp_rellink_06" ><p class="Image"><img oncontextmenu="return false" alt="写真・図版" class="LazyLoad" data-original="https://www.asahicom.jp/articles/images/AS20200831001657_commL.jpg" src="//www.asahicom.jp/sp/images/image_loading.gif"></p><p class="Headline">炎上した三浦瑠麗さんのCM　「左右問わず排除激しく」</p></a></li>
+</ul>
+</div>
+</section>
+<div class="NewsListArea" id="infinite"><!-- NewsListArea BGN -->
+<div class="skeletonList" style="display: none;">
+<div class="Loader"><img src="https://www.asahicom.jp/sp/images/image_loading.gif" alt="読込中"></div>
+<div class="skeletonS">
+<div class="Image skeleton"></div>
+<div class="Headline"><div class="skeleton"></div><div class="skeleton" style="width: 80%"></div></div>
+</div>
+<div class="skeletonS">
+<div class="Image skeleton"></div>
+<div class="Headline"><div class="skeleton"></div><div class="skeleton" style="width: 80%"></div></div>
+</div>
+<div class="ListL skeletonL">
+<div class="Image skeleton"></div>
+<div class="Headline"><div class="skeleton"></div></div>
+<div class="Headline"><div class="skeleton"></div></div>
+</div>
+<div class="skeletonS">
+<div class="Image skeleton"></div>
+<div class="Headline"><div class="skeleton"></div><div class="skeleton" style="width: 80%"></div>
+</div>
+</div>
+</div>
+</div><!--NewsListArea END-->
+<div class="Section TopNews EndlessScrolling">
+<div class="Title"><h2>注目情報</h2></div>
+<!-- Ad BGN -->
+<!-- dfptag スマホ最適化　注目情報（トップ・記事面で共用３本対応）　★ここから-->
+<div class="PrInfoBlock">
+<ul id="DfpChumoku1" class="List PrThumb">
+<li id="DfpChumoku11" style="padding: 0;min-height: 0;border-top: none;">
+<div id="div-gpt-ad-sp_chumoku11">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_chumoku11');
+});
+</script>
+</div>
+</li>
+<li id="DfpChumoku12" style="padding: 0;min-height: 0;border-top: none;">
+<div id="div-gpt-ad-sp_chumoku12">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_chumoku12');
+});
+</script>
+</div>
+</li>
+<li id="DfpChumoku13" style="padding: 0;min-height: 0;border-top: none;">
+<div id="div-gpt-ad-sp_chumoku13">
+<script>
+googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-sp_chumoku13');
+});
+</script>
+</div>
+</li>
+</ul>
+</div>
+<!-- 広告並び替え -->
+<script>
++function(){
+  var li = document.querySelectorAll('ul#DfpChumoku1 > li');
+  var arr = [];
+  for (var i = 0; i < li.length; i++) {arr.push([Math.random(), li[i]]);}
+  arr.sort(); 
+  arr.forEach(function(v){document.getElementById('DfpChumoku1').appendChild(v[1]);});
+}();
+</script>
+<!-- dfptag スマホ最適化　注目情報（トップ・記事面で共用３本対応）　★ここまで-->
+<!-- Ad END -->
+</div>
+<div class="PrInfoBlock EndlessScrolling">
+<div class="Title"><h2><span>PR</span>企画特集</h2></div>
+<ul id="JS_AD_KIKAKU_RAND_AB" class="PrSpecialList">
+<li><a href="http://www.asahi.com/ads/mylan/interview01/?cid=pre_sp"><p class="Headline">４０～５０代の酒好きの人は要注意！ <span class="Lead">飲酒が主な原因の病気「慢性すい炎」</span></p></a></li>
+<li><a href="https://www.asahi.com/ads/hokennomadoguchi_senryu_contest/?cid=reg_sp"><p class="Headline">お題は「ありがとう」川柳募集！<span class="Lead">賞金１０万円他、豪華家電プレゼント</span></p></a></li>
+<li><a href="http://www.asahi.com/ad/biz-manabi/"><p class="Headline">MBA、夢じゃない<span class="Lead">社会人大学院</span></p></a></li>
+<li><a href="https://asm.asahi.com/article/13492184?utm_source=sp_premuim_kikaku&utm_medium=display&utm_campaign=text_gazou"><p class="Headline">大谷翔平のチャレンジ精神に学ぶ。<span class="Lead">挑戦する人生の方が絶対に楽しい</span></p></a></li>
+<li><a href="https://smbiz.asahi.com/article/13616973?cid=pre_sp"><p class="Headline">テレワークの大失敗と成功のヒケツ<span class="Lead">先進事例紹介の資料をプレゼント！</span></p></a></li>
+<li><a href="https://www.asahi.com/ads/yasaiwotorou-pj/?cid=pre_sp2"><p class="Headline">野菜、摂れていますか？<span class="Lead">今日からできる「あと６０ｇ」の心がけ</span></p></a></li>
+<li><a href="http://www.asahi.com/and_edu/articles/0017/?cid=pre_sp"><p class="Headline">子どもとのかけがえのない日常を残す<span class="Lead">ママYouTuber　親子動画制作のコツ</span></p></a></li>
+<li><a href="https://asm.asahi.com/article/13582904?cid=pre_sp"><p class="Headline">岸谷五朗が綴る、ショートストーリー。<span class="Lead">「大人の男とMINI CLUBMAN」</span></p></a></li>
+<li><a href="https://digital.asahi.com/al/connect/dokuritsu/index.html?site_connect_id=mynavi&iref=dokuritsusp"><p class="Headline">独立を意識したら　朝デジ会員なら簡単登録！</p></a></li>
+<li><a href="https://www.asahi.com/ads/depart/?cid=reg_sp"><p class="Headline">百貨店の物産展、セール情報はこちらから！</p></a></li>
+<li><a href="http://www.asahi.com/ad/power_of_university/kansai/?cid=reg_sp"><p class="Headline">「大学のいま」を徹底取材！「関西の大学力」</p></a></li>
+<li><a href="https://www.asahi.com/ads/kotsukotsu?cid=reg1"><p class="Headline">シリーズ／各界の著名人に聞いた成功のコツ</p></a></li>
+<li><a href="https://www.asahi.com/ads/resona_e-us/articles/0004/?cid=reg_sp"><p class="Headline">地域の金融機関が「未来」の為にできる事とは</p></a></li>
+<li><a href="https://www.asahi.com/ads/microsoft_365_apps/?cid=reg_sp1"><p class="Headline">「Office」の進化は働き方をこう変えた</p></a></li>
+<li><a href="https://www.asahi.com/ads/brand/west?cid=reg1"><p class="Headline">5000円あたる！マンションに関するアンケート</p></a></li>
+<li><a href="https://withnews.jp/article/k0200722005qq000000000000000S00110201qq000021536A"><p class="Headline">コロナ禍「オンライン接客」で売上増</p></a></li>
+<li><a href="https://www.asahi.com/ads/shopify_r330/?cid=reg_sp2"><p class="Headline">世界観を伝える「ECサイト」はどう作る？</p></a></li>
+<li><a href="https://terakoya.asahi.com/article/13674972?cid=reg_sp"><p class="Headline">SAPIXが語るオンライン授業で見えた課題</p></a></li>
+<li><a href="https://terakoya.asahi.com/article/13674942?cid=reg_sp"><p class="Headline">あえて「過保護にしない」、甲陽学院の教育</p></a></li>
+<li><a href="https://terakoya.asahi.com/article/13674898?cid=reg_sp"><p class="Headline">ロールモデルの存在が力になる教育環境とは？</p></a></li>
+<li><a href="https://www.asahi.com/dialog/articles/13654684?cid=reg_sp"><p class="Headline">変容する災害リスク　「まさか」に備えて</p></a></li>
+<li><a href="https://que.digital.asahi.com/question/11002318?cid=reg1"><p class="Headline">家を建てるならまずは！無料でカタログ請求</p></a></li>
+<li><a href="https://www.asahi.com/ads/start/articles/00348/?cid=reg_sp2"><p class="Headline">キャッシュレスは今後、どう進化する？</p></a></li>
+</ul>
+</div>
+</div><!--contents END-->
+<!-- Footer_Navi BGN -->
+<nav>
+<div class="Nav">
+<ul class="GlobalNav">
+<li class="News"><a href="https://www.asahi.com/sp/?iref=sp_navi"><span>ニュース</span></a></li>
+<li class="Sports"><a href="http://www.asahi.com/sports/?iref=sp_navi"><span>スポーツ</span></a></li>
+<li class="Culture"><a href="http://www.asahi.com/culture/?iref=sp_navi"><span>文化・芸能</span></a></li>
+<li class="Media"><a href="http://www.asahi.com/multimedia/?iref=sp_navi"><span>写真・動画</span></a></li>
+<li class="Tenjin"><a href="http://www.asahi.com/news/tenseijingo_newest.html?iref=sp_navi"><span>天声人語</span></a></li>
+<li class="Shukatsu_navi"><a href="https://www.asahi.com/shukatsunavi/?iref=sp_navi"><span>朝デジ就活ナビ</span></a></li>
+<li class="Sitsu_dora"><a href="http://www.asahi.com/edu/doraemon/?iref=sp_navi"><span>しつもん！ドラえもん</span></a></li>
+<li class="Rensai"><a href="https://www.asahi.com/rensai/?iref=sp_navi"><span>連載</span></a></li>
+<li class="Ronza"><a href="https://webronza.asahi.com/?iref=sp_navi"><span>論座</span></a></li>
+<li class="And_m"><a href="https://www.asahi.com/and_M/?iref=sp_navi"><span>&amp;M</span></a></li>
+<li class="And_w"><a href="https://www.asahi.com/and_w/?iref=sp_navi"><span>&amp;ｗ</span></a></li>
+<li class="And_travel"><a href="https://www.asahi.com/and_travel/?iref=sp_navi"><span>&amp;TRAVEL</span></a></li>
+<li class="Choukan"><a href="http://www.asahi.com/shimen/?iref=sp_navi"><span>朝刊紙面</span></a></li>
+<li class="Youkan"><a href="http://www.asahi.com/shimen/index_ev.html?iref=sp_navi"><span>夕刊紙面</span></a></li>
+<li class="Guide"><a href="https://digital.asahi.com/info/?iref=sp_navi" class="Logout"><span>総合ガイド</span></a>
+<a href="https://digital.asahi.com/info/?iref=sp_navi" class="Lite"><span>総合ガイド</span></a>
+<a href="https://digital.asahi.com/info/?iref=sp_navi" class="Coupon"><span>総合ガイド</span></a>
+<a href="https://digital.asahi.com/info/?iref=sp_navi" class="CouponNG Member"><span>総合ガイド</span></a></li>
+<li class="Support"><a href="https://digital.asahi.com/info/price/?iref=sp_navi" class="Logout"><span>登録申し込み</span></a>
+<a href="https://digital.asahi.com/my_menu_smp/?iref=sp_navi" class="Lite"><span>お客様サポート</span></a>
+<a href="https://digital.asahi.com/my_menu_smp/?iref=sp_navi" class="Coupon"><span>お客様サポート</span></a>
+<a href="https://digital.asahi.com/my_menu_smp/?iref=sp_navi" class="CouponNG Member"><span>お客様サポート</span></a></li>
+</ul>
+</div>
+</nav>
+<!-- Footer_Navi END -->
+<!-- SearchArea|BGN -->
+<section>
+<div id="FooterSearch"><!-- FooterSearch -->
+<div class="SearchArea"><!-- SearchArea -->
+<form class="SearchBox" method="get" action="//sitesearch.asahi.com/.cgi/sp/sitesearch/sitesearch.pl">
+<fieldset class="SearchInput">
+<input type="search" class="SearchKeywords" value="" name="Keywords" placeholder="記事を検索" required>
+<input type="submit" class="SearchSubmit" value="">
+</fieldset>
+</form>
+<ul class="SubLink">
+<li><a href="http://www.asahi.com/sitemap/?iref=sp_navi">サイトマップからさがす</a></li>
+</ul><!-- /SubLink -->
+</div><!-- /SearchArea -->
+</div><!-- /FooterSearch -->
+</section>
+<!-- SearchArea|END -->
+<!-- Footer_wrapper BGN -->
+<div id="Footer_wrapper">
+<!-- Footer BGN -->
+<div id="Footer">
+<div class="SelectButton">
+<ul>
+<li class="SelectButtonPC"><a href="javascript:void(0);">PC版</a></li>
+<li class="SelectButtonSMP">スマートフォン版</li>
+<li class="SelectButtonLogin">
+<ul class="LoginLink">
+<li class="Member"><a href="https://digital.asahi.com/logout/?jumpUrl=http%3A%2F%2Fwww.asahi.com%2F"><span>ログアウト</span></a></li>
+<li class="Lite"><a href="https://digital.asahi.com/logout/?jumpUrl=http%3A%2F%2Fwww.asahi.com%2F"><span>ログアウト</span></a></li>
+<li class="Logout"><a href="https://digital.asahi.com/rd/lgck2.html"><span>ログイン</span></a></li>
+</ul><!-- LoginLink -->
+</li><!-- SelectButtonLogin -->
+</ul>
+</div><!-- SelectButton -->
+<!-- FooterInner BGN --><div id="FooterInner">
+<!--FooterLink BGN-->
+<nav>
+<div id="FooterLink">
+<ul>
+<li><a href="http://www.asahi.com/corporate/?iref=sp_footer" target="_blank">朝日新聞社から</a></li>
+<li><a href="http://www.asahi.com/policy/?iref=sp_footer">サイトポリシー</a></li>
+<li><a href="http://www.asahi.com/sitemap/?iref=sp_footer">サイトマップ</a></li>
+<li><a href="http://digital.asahi.com/info/guide/index09_10.html?iref=sp_footer">利用規約</a></li>
+<li><a href="http://www.asahi.com/kojinjoho/?iref=sp_footer">個人情報</a></li>
+<li><a href="http://www.asahi.com/policy/copyright.html?iref=sp_footer">著作権</a></li>
+<li><a href="http://www.asahi.com/reference/?iref=sp_footer" target="_blank">お問い合わせ</a></li>
+</ul>
+</div></nav>
+<div class="SelectButton LangSW">
+<ul>
+<li>日本語</li>
+<li><a href="http://www.asahi.com/ajw/?iref=sp_footer">English</a></li>
+<li><a href="http://www.asahichinese-f.com/?iref=sp_footer">繁體字</a></li>
+<li><a href="http://www.asahichinese-j.com/?iref=sp_footer">简体字</a></li>
+</ul>
+</div>
+<!--FooterLink END-->
+<!-- AboutSite BGN --><div class="AboutSite">
+<!-- Copyright BGN --><div class="Copyright">
+<p>Copyright &copy; The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission.</p>
+</div><!-- Copyright END -->
+</div><!-- AboutSite END -->
+</div><!-- FooterInner END -->
+
+</div><!-- Footer END -->
+</div><!-- Footer_wrapper END -->
+<!-- facebook宣言スクリプト BGN -->
+<div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId : '137119773101625',
+			xfbml : true,
+			version : 'v7.0'
+		});
+	};
+	(function(d, s, id){
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/ja_JP/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- facebook宣言スクリプト END -->
+</div><!-- wrapper END -->
+</div><!-- Article END -->
+
+<!-- googleon:index -->
+
+<script>
+(function () {
+
+    const wait = (sec) => {
+        return new Promise((resolve, reject) => {
+            setTimeout(resolve, sec*1000);
+        });
+    };
+		
+    const event = (o) => {
+        return new Promise((resolve, reject) => {
+            document.dispatchEvent( new CustomEvent('infload', { detail: { order: o }}));
+        });
+    }
+
+    const domParser = new DOMParser();
+    const listElm = document.querySelector('#infinite');
+    const skelton = document.querySelector('.skeletonList');
+    const host = location.origin;
+    const url = new URL('/sp/include/article/news/index.htm', host);
+    let isLoadingInProgress = false;
+    let next = 0;
+    let loadMore = async function() {
+        url.searchParams.set('order', next);
+        let item = await fetch(url, {method: 'GET'});
+				let order = 0;
+        if (item.ok){
+            await item.text().then( html => {
+                if(html.length>0){
+                    order = domParser.parseFromString(html, 'text/html').body.getElementsByClassName('append')[0].getAttribute("data-order");
+                    listElm.insertBefore(domParser.parseFromString(html, 'text/html').body.getElementsByClassName('append')[0], skelton);
+                    isLoadingInProgress = false;
+                }
+            });
+            skelton.style.display='none';
+            if(order>0){
+                await event(order);
+                await wait(0.8);
+            }
+        }
+    };
+
+    const absolutePosition = listElm.getBoundingClientRect().top;
+    window.addEventListener('scroll', function() {
+        if ( absolutePosition + listElm.getBoundingClientRect().height < scrollY + window.innerHeight) {
+            if (!isLoadingInProgress) {
+                skelton.style.display='block';
+                isLoadingInProgress = true;
+                next++;
+                loadMore();
+            }
+        }
+    });
+
+}());
+</script>
+
+</body>
+</html>
+
